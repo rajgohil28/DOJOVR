@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 5a38be35c8cf473418b4f6f90b71b4b7
+  - enabled: 1
+    path: Assets/Scenes/OverviewDojo.unity
+    guid: 2f4feceebb6b4564a8bc599e0144f0c4
+  - enabled: 1
+    path: Assets/Scenes/SafetyDOJO.unity
+    guid: f76398e822cf7dc48a4048019b2adc6b
+  - enabled: 1
+    path: Assets/Scenes/5SenseDOJO.unity
+    guid: 6f40f9782adec3447ba8e1af23289560
+  - enabled: 1
+    path: Assets/Scenes/ProductDOJO.unity
+    guid: 10ab23b7fdc0f2b47a948212576707cb
+  - enabled: 1
+    path: Assets/Scenes/ProcessDOJO.unity
+    guid: e98ff57e21099aa48b83f5bf6979f623
+  - enabled: 1
+    path: Assets/Scenes/QualityDOJO.unity
+    guid: 1c3405c410680a846a1f90c8669a08fd
+  - enabled: 1
+    path: Assets/Scenes/ProductionKnowledge.unity
+    guid: 9172604b33d2aed45b03c7a228f6b9a2
+  - enabled: 1
+    path: Assets/Scenes/MaintenanceDOJO.unity
+    guid: 8c9d5ac5c62921d49ab24f475c9da063
+  m_configObjects: {}
